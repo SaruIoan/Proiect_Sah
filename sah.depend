@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1778227992 source:d:\sah\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+
